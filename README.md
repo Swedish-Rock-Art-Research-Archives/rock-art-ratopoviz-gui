@@ -3,7 +3,7 @@
 
 Rock Art Topographical Visualization.
 
-Tool that reads 3D mesh data and generates images visualizing the content. The executable file and folder structure can be found here:  [link to dropbox file download](https://www.dropbox.com/sh/tm877gq2sr5cgey/AAB_0rTsZw71m-374CT4auPBa?dl=0)
+Tool that reads 3D mesh data and generates images visualizing the content. The executable file and folder structure can be found here:  [link to dropbox file download](https://www.dropbox.com/sh/tm877gq2sr5cgey/AAB_0rTsZw71m-374CT4auPBa?dl=1)
 
 To run, setup **config.json** with the relevant paths using the ratopoviz app and run.  For additional advice, navigate to the help document through the main menu.
 
