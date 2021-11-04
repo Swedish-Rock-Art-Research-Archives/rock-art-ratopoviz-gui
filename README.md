@@ -2,7 +2,8 @@
 # Ratopoviz
 
 Rock Art Topographical Visualization. 
-version 1.1
+
+**version 1.1**
 
 Tool that reads 3D mesh data and generates images visualizing the content. The executable file and folder structure can be found here:  [link to dropbox file download](https://www.dropbox.com/sh/tm877gq2sr5cgey/AAB_0rTsZw71m-374CT4auPBa?dl=1)
 
