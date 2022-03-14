@@ -3,7 +3,7 @@
 
 Topography Visualisation Toolbox. 
 
-**version 2.0**
+**version 2.0** - Still in development
 
 Tool that reads 3D mesh data and generates images visualizing the content. Information about the project and the executable file can be found here:  [TVT](https://tvt.dh.gu.se/)
 
