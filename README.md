@@ -1,19 +1,11 @@
 
-# Ratopoviz
+# TVT (Formerly ratopoviz - Rock Art Topographical Visualization)
 
-Rock Art Topographical Visualization. 
+Topography Visualisation Toolbox. 
 
-**version 1.1**
+**version 2.0**
 
-Tool that reads 3D mesh data and generates images visualizing the content. The executable file and folder structure can be found here:  [link to dropbox file download](https://www.dropbox.com/sh/tm877gq2sr5cgey/AAB_0rTsZw71m-374CT4auPBa?dl=1)
+Tool that reads 3D mesh data and generates images visualizing the content. Information about the project and the executable file can be found here:  [TVT](https://tvt.dh.gu.se/)
 
-To run, setup **config.json** with the relevant paths using the ratopoviz app and run.  For additional advice, navigate to the help document through the main menu.
+To run, setup **config.json** with the relevant paths using the app and run.  For additional advice, navigate to the help document through the main menu.
 
-### Files
-
-- **config.json** - Configuration file where paths and settings are defined.
-- **ratopoviz-app.exe** - Main app for running the tool.
-- **dist/001.jpg** - Linked image file.
-- **dist/003.jpg** - Linked image file.
-- **dist/help.pdf** - Help document detailing how to setup and run the tool.
-- **dist/ratopoviz-2021.exe** - Secondary executable for running the ratopoviz processes.
